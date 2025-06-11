@@ -1,0 +1,31 @@
+/* Para Home.js */
+.inicio-content {
+  padding: 30px 60px;
+  text-align: left;
+}
+
+.inicio-content h2 {
+  color: #0074d9;
+  font-weight: bold;
+}
+
+.inicio-content p {
+  color: #333;
+}
+
+.inicio-links {
+  margin-top: 15px;
+}
+
+.inicio-links a {
+  color: #0074d9;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.separator {
+  margin-right: 15px;
+  color: gray;
+}
+
+  

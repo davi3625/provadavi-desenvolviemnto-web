@@ -1,0 +1,39 @@
+.header {
+  background-color: #0074d9;
+  text-align: center;
+  padding: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.titulo {
+  color: white;
+  margin: 0;
+  font-size: 28px;
+}
+
+.menu {
+  margin-top: 10px;
+}
+
+.menu-item {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu-item:hover {
+  text-decoration: underline;
+}
